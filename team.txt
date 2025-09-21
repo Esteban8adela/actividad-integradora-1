@@ -1,0 +1,13 @@
+Jaime Esteban Ochoa De La Torre - A01643234
+- leerArchivo()
+- AnalizarCodigo()
+- encontrarSubstringComun()
+- main()
+
+Edgardo Medina - A01614376
+- esPalindromo()
+- main()
+
+Patricio Blanco Rafols - A01642057
+- encuentraPalindromo()
+- main()
